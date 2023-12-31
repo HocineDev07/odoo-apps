@@ -1,2 +1,2 @@
-# odooapps
+# Odoo_apps
 odoo applications
